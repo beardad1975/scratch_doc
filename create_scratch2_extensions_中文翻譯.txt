@@ -5,7 +5,7 @@
 
 原始作者：John Maloney ，MIT Media Laboratory ，2013年9月
 原文網址：http://wiki.scratch.mit.edu/w/images/ExtensionsDoc.HTTP-9-11.pdf
-譯者：張文宏 ，2016年4月
+譯者：Wen-Hung Chang <beardad1975@gmail.com> ，2016年4月
 翻譯原則：不採精確翻譯，以容易理解及實用為原則
 
 
