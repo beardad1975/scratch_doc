@@ -35,7 +35,7 @@ Scratch2.0可以透過擴充功能來控制外部的裝置(如機器人套件，
     "blockSpecs": [
         [" ", "嗶一聲", "playBeep"],
         [" ", "設定音量為 %n", "setVolume", 5],
-        ["r", "目前音量值", "volume"],
+        ["r", "目前音量值", "volume"]
     ]
 }
 
@@ -85,12 +85,12 @@ Scratch2.0可以透過擴充功能來控制外部的裝置(如機器人套件，
     "extensionName": "Kinect",
     "extensionPort": 12345,
     "blockSpecs": [
-        ["r", "取得 %m.bodyPart 部位的 %m.coordinate 座標位置", "position"],
+        ["r", "取得 %m.bodyPart 部位的 %m.coordinate 座標位置", "position"]
     ],
     "menus": {
         "coordinate": ["x", "y", "z"],
-        "bodyPart": ["head", "shoulder", "elbow", "hand"],
-    },
+        "bodyPart": ["head", "shoulder", "elbow", "hand"]
+    }
 }
 
 在這個例子中，"position"回報積木有兩個選單，第一個選單coordinate可選座標xyz軸 , 另一個選單bodyPart是身體的部位，如head等。
